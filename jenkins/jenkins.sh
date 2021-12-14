@@ -3,8 +3,8 @@
 
 #Script to setup Jenkins on centOS/RHEL 6.x and 7.x
 
-#Author Serge  Aug 2017
-#Modify: sept 2019
+#Author Huguette Dec 2021
+#Modify:dec 2021
 #Modified: Jun 2020
 #Modified: sept 2021
 
